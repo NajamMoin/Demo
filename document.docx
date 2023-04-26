@@ -1,0 +1,19 @@
+git init
+git status
+touch index.html (so on)
+git status
+git add <file>, . 
+git status 
+
+
+git commit -m "first commit"
+
+git config --global user.email ""
+git config --global user.name ""
+
+git account
+create git repository 
+
+git remote add origin https://github.com/NajamMoin/Demo.git
+git branch -M main
+git push -u origin main
